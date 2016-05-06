@@ -1,2 +1,3 @@
 # Lahar-Communication-Api
-Integration to Lahar Api (http://ajuda.lahar.com.br/)
+Library for integration with the Api Lahar
+More information (http://ajuda.lahar.com.br/)
