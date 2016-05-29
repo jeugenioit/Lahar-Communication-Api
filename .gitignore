@@ -1,3 +1,12 @@
 dotnet/Lahar.Integration/bin/
 dotnet/Lahar.Integration/obj/
 dotnet/.vs/LaharCommunicationApi/v14/.suo
+/dotnet/ExampleUse/bin
+/dotnet/LogService/bin/Debug
+/dotnet/LogService/obj/Debug
+/dotnet/MyWebSiteMVC/bin
+*.log
+/dotnet/MyWebSiteMVC/obj/Debug
+/dotnet/MyWebSiteMVC/Project_Readme.html
+/dotnet/Provider/bin/Debug
+/dotnet/Provider/obj/Debug
